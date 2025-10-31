@@ -35,4 +35,4 @@ words = ["fooo","barr","wing","ding","wing"]
 
 - 能在35分钟内跑通
 
-- 代码提交到`Q1/main.py`
+- 代码提交到`Q2/main.py`
